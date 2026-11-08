@@ -14,7 +14,7 @@
 
       <div class="identidade">
         <h1>Ronilson Leal Gomes</h1>
-        <p>Engenharo Informático</p>
+        <p>Engenheiro Informático</p>
       </div>
     </div>
   </header>

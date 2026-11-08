@@ -1,6 +1,15 @@
 # MiniProj1
 
-This template should help get you started developing with Vue 3 in Vite.
+## Descrição
+
+Este projeto foi desenvolvido no âmbito da Unidade Curricular (UC) de Programação Web Avançada.
+
+O MiniProj1 consiste no desenvolvimento de um currículo profissional interativo, utilizando Vue 3 e Vite, com uma interface moderna, responsiva e organizada em componentes.
+
+O currículo permite apresentar informações pessoais, percurso académico, experiência profissional, projetos desenvolvidos, competências e hobbies.
+
+A aplicação inclui também uma secção de contactos, com ligações para redes sociais, GitHub, WhatsApp e email.
+
 
 ## Recommended IDE Setup
 
@@ -35,4 +44,11 @@ npm run dev
 
 ```sh
 npm run build
+```
+
+### Install icon library
+
+```sh
+pm install lucide-vue-next
+
 ```

@@ -7,7 +7,7 @@ import Navigation from './components/Navigation.vue'
 import Competencias from './components/Competencias.vue'
 import Footer from './components/Footer.vue'
 import QuemSou from './components/QuemSou.vue'
-import OQueFaco from './components/OQueFaco.vue'
+import OQueFaco from './components/OqueFaco.vue'
 import Hobbies from './components/Hobbies.vue'
 
 const modalAtivo = ref(null)
