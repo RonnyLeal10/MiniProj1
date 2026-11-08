@@ -10,7 +10,7 @@
     </button>
 
     <button class="botao losango" @click="abrir('hobbies')">
-      <span>Hobbies</span>
+      <span> Hobbies </span>
     </button>
   </nav>
 </template>
